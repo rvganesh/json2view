@@ -3,7 +3,7 @@
 	"properties": [{
 		"name": "background",
 		"type": "color",
-		"value": "#919191"
+		"value": "#123456"
 	},
 	{
 		"name": "layout_width",
